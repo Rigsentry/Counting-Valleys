@@ -1,0 +1,7 @@
+C:\work-not-shared\2021\codechallenge\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\Counting-Valleys.exe.config
+C:\work-not-shared\2021\codechallenge\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\Counting-Valleys.exe
+C:\work-not-shared\2021\codechallenge\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\Counting-Valleys.pdb
+C:\work-not-shared\2021\codechallenge\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\Counting-Valleys.csprojAssemblyReference.cache
+C:\work-not-shared\2021\codechallenge\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\Counting-Valleys.csproj.CoreCompileInputs.cache
+C:\work-not-shared\2021\codechallenge\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\Counting-Valleys.exe
+C:\work-not-shared\2021\codechallenge\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\Counting-Valleys.pdb
