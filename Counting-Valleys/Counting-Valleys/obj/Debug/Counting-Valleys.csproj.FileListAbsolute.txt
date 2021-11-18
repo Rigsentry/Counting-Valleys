@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\Counting-Valleys.exe.config
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\Counting-Valleys.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\Counting-Valleys.pdb
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\Counting-Valleys.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\Counting-Valleys.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\Counting-Valleys.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\Counting-Valleys.pdb
