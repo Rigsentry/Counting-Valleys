@@ -13,37 +13,37 @@ namespace Counting_Valleys
             var steps2 = 12;
             var path2 = "DDUUDDUDUUUD";
 
-            var steps3 = 0;
+            var steps3 = 58;
             var path3 = "DDUUDDUDUUUDUDDDUUUDUDUDDUDUUUDUDDDDDUUUUUUDUDUDUDUDUDUUUU";
 
-            Console.WriteLine("1- the number of valleys traversed is: " + countingValleys(steps1, path1));
-            Console.WriteLine("2- the number of valleys traversed is: " + countingValleys(steps2, path2));
-            Console.WriteLine("3- the number of valleys traversed is: " + countingValleys(steps3, path3));
+            Console.WriteLine("1- the number of valleys is: " + countingValleys(steps1, path1));
+            Console.WriteLine("2- the number of valleys is: " + countingValleys(steps2, path2));
+            Console.WriteLine("3- the number of valleys is: " + countingValleys(steps3, path3));            
+        }
 
-            static int countingValleys(int steps, string path)
+        public static int countingValleys(int steps, string path)
+        {
+            var waterLevel = 0;
+            var valleysCount = 0;
+
+            foreach (var direction in path)
             {
-                var waterLevel = 0;
-                var valleys = 0;
-
-                foreach(var direction in path)
+                if (direction == 'U')
                 {
-                    if (direction.Equals('U'))
-                    {
-                        waterLevel++;
+                    waterLevel++;
 
-                        //Only count when the hiker goes back to sea level
-                        if (waterLevel == 0)
-                        {
-                            valleys++;
-                        }
-                    }
-                    else
+                    //Only count when the hiker goes back to sea level after he was under sea level
+                    if (waterLevel == 0)
                     {
-                        waterLevel--;                        
+                        valleysCount++;
                     }
                 }
-                return valleys;
+                else
+                {
+                    waterLevel--;
+                }
             }
+            return valleysCount;
         }
     }
 }
