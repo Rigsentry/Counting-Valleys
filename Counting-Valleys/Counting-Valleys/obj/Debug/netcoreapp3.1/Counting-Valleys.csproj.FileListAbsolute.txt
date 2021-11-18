@@ -1,0 +1,14 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\netcoreapp3.1\Counting-Valleys.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\netcoreapp3.1\Counting-Valleys.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\netcoreapp3.1\Counting-Valleys.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\netcoreapp3.1\Counting-Valleys.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\netcoreapp3.1\Counting-Valleys.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\bin\Debug\netcoreapp3.1\Counting-Valleys.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\netcoreapp3.1\Counting-Valleys.csproj.AssemblyReference.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\netcoreapp3.1\Counting-Valleys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\netcoreapp3.1\Counting-Valleys.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\netcoreapp3.1\Counting-Valleys.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\netcoreapp3.1\Counting-Valleys.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\netcoreapp3.1\Counting-Valleys.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\netcoreapp3.1\Counting-Valleys.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Counting-Valleys\Counting-Valleys\Counting-Valleys\obj\Debug\netcoreapp3.1\Counting-Valleys.genruntimeconfig.cache
